@@ -52,4 +52,4 @@ by a PR so other fellow can try it.
 
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
-|     |           |      |             |       |
+| 757024 | Germán Garcés| [https://github.com/fntkg/lab6-microservices/blob/work/report.md](https://github.com/fntkg/lab6-microservices/blob/work/report.md)     | |       |
